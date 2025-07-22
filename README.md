@@ -5,6 +5,7 @@ I'll upload all leetcode questions i did recently
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -22,4 +23,8 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
