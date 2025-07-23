@@ -44,5 +44,10 @@ I'll upload all leetcode questions i did recently
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0066-plus-one) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
