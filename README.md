@@ -5,6 +5,7 @@ I'll upload all leetcode questions i did recently
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -52,4 +53,8 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
