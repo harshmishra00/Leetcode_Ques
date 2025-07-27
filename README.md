@@ -13,6 +13,7 @@ I'll upload all leetcode questions i did recently
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0724-find-pivot-index](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
@@ -24,6 +25,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -66,10 +68,12 @@ I'll upload all leetcode questions i did recently
 | [0035-search-insert-position](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
