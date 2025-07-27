@@ -51,6 +51,7 @@ I'll upload all leetcode questions i did recently
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0069-sqrtx) |
@@ -68,4 +69,8 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
