@@ -49,6 +49,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0050-powx-n](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -57,4 +58,5 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
