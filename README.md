@@ -55,6 +55,7 @@ I'll upload all leetcode questions i did recently
 | [0050-powx-n](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -73,4 +74,12 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
