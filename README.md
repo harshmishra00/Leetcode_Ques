@@ -66,6 +66,7 @@ I'll upload all leetcode questions i did recently
 | [0069-sqrtx](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +80,7 @@ I'll upload all leetcode questions i did recently
 | [0074-search-a-2d-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Matrix
