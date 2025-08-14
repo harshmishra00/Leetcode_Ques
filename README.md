@@ -18,6 +18,7 @@ I'll upload all leetcode questions i did recently
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1603-running-sum-of-1d-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
@@ -82,6 +83,7 @@ I'll upload all leetcode questions i did recently
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
