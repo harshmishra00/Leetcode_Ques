@@ -15,6 +15,7 @@ I'll upload all leetcode questions i did recently
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -24,6 +25,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +37,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0075-sort-colors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -62,6 +65,7 @@ I'll upload all leetcode questions i did recently
 | [0066-plus-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -74,6 +78,7 @@ I'll upload all leetcode questions i did recently
 | [0069-sqrtx](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Matrix
@@ -85,6 +90,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
