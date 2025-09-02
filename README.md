@@ -5,6 +5,7 @@ I'll upload all leetcode questions i did recently
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0035-search-insert-position) |
@@ -27,6 +28,7 @@ I'll upload all leetcode questions i did recently
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0567-permutation-in-string) |
