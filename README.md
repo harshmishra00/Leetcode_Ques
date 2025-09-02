@@ -9,6 +9,7 @@ I'll upload all leetcode questions i did recently
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0075-sort-colors) |
@@ -95,6 +96,7 @@ I'll upload all leetcode questions i did recently
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
@@ -105,6 +107,7 @@ I'll upload all leetcode questions i did recently
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0258-add-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
