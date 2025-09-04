@@ -10,6 +10,6 @@ public:
             }
             x/=10;
         }
-        return num;
+        return (int)num;
     }
 };
