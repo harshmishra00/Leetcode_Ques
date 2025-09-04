@@ -80,6 +80,7 @@ I'll upload all leetcode questions i did recently
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0066-plus-one) |
