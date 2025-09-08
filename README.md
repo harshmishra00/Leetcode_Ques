@@ -90,6 +90,7 @@ I'll upload all leetcode questions i did recently
 | [0258-add-digits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0367-valid-perfect-square) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1806-count-of-matches-in-tournament](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1806-count-of-matches-in-tournament) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3279-alice-and-bob-playing-flower-game) |
