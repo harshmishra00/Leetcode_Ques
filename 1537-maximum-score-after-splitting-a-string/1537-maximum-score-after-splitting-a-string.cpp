@@ -1,26 +1,26 @@
 class Solution {
 public:
     int maxScore(string s) {
-        int result=INT_MIN;
-        int n=s.size();
-        for(int i=0;i<n-1;i++){
-            int zeroCount=0;
-            for(int j=0;j<=i;j++){
-                
-                if(s[j]=='0'){
-                    zeroCount++;
-                }
-            }
-            int oneCount=0;
-            for(int j=i+1;j<n;j++){
-                
-                if(s[j]=='1'){
-                    oneCount++;
-                }
-            }
-
-            result=max(result,zeroCount+oneCount);
+        int n = s.size();
+        int totalOnes = 0;
+        
+        // Count total number of ones
+        for (char c : s) {
+            if (c == '1') totalOnes++;
         }
-        return result;
+        
+        int zeros = 0, ones = 0, maxScore = 0;
+        
+        // Traverse until n-1 (can't split after last character)
+        for (int i = 0; i < n - 1; i++) {
+            if (s[i] == '0') zeros++;
+            else ones++;
+            
+            int leftScore = zeros;
+            int rightScore = totalOnes - ones;
+            maxScore = max(maxScore, leftScore + rightScore);
+        }
+        
+        return maxScore;
     }
 };
