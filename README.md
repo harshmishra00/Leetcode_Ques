@@ -34,6 +34,7 @@ I'll upload all leetcode questions i did recently
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2756-buy-two-chocolates](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2756-buy-two-chocolates) |
+| [3194-find-words-containing-character](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -182,6 +183,7 @@ I'll upload all leetcode questions i did recently
 | [2346-largest-3-same-digit-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2886-faulty-keyboard](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2887-sort-vowels-in-a-string) |
+| [3194-find-words-containing-character](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3194-find-words-containing-character) |
 | [3462-vowels-game-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
