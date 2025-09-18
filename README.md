@@ -50,6 +50,7 @@ I'll upload all leetcode questions i did recently
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3227-find-missing-and-repeated-values) |
+| [3678-design-task-manager](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -219,6 +220,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3678-design-task-manager) |
 ## Brainteaser
 |  |
 | ------- |
@@ -239,8 +241,10 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
