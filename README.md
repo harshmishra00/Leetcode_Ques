@@ -112,6 +112,7 @@ I'll upload all leetcode questions i did recently
 | [0029-divide-two-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
@@ -156,6 +157,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0389-find-the-difference) |
@@ -163,6 +165,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1806-count-of-matches-in-tournament) |
@@ -180,6 +183,7 @@ I'll upload all leetcode questions i did recently
 | [0014-longest-common-prefix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0344-reverse-string) |
