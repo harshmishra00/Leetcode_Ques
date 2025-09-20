@@ -40,6 +40,7 @@ I'll upload all leetcode questions i did recently
 | [3194-find-words-containing-character](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3227-find-missing-and-repeated-values) |
 | [3797-design-spreadsheet](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ I'll upload all leetcode questions i did recently
 | [3227-find-missing-and-repeated-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3227-find-missing-and-repeated-values) |
 | [3678-design-task-manager](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -152,6 +154,7 @@ I'll upload all leetcode questions i did recently
 | [0792-binary-search](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -261,9 +264,15 @@ I'll upload all leetcode questions i did recently
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
+## Queue
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
