@@ -146,6 +146,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -288,4 +289,8 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
