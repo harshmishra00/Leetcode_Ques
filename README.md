@@ -25,6 +25,7 @@ I'll upload all leetcode questions i did recently
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -80,6 +81,7 @@ I'll upload all leetcode questions i did recently
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0389-find-the-difference) |
+| [0611-valid-triangle-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0611-valid-triangle-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -114,6 +116,7 @@ I'll upload all leetcode questions i did recently
 | [0344-reverse-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0953-reverse-only-letters) |
 | [1894-merge-strings-alternately](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1894-merge-strings-alternately) |
@@ -168,6 +171,7 @@ I'll upload all leetcode questions i did recently
 | [0287-find-the-duplicate-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -257,6 +261,7 @@ I'll upload all leetcode questions i did recently
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0611-valid-triangle-number) |
 | [2032-largest-odd-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2032-largest-odd-number-in-string) |
 | [2756-buy-two-chocolates](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2756-buy-two-chocolates) |
 ## Heap (Priority Queue)
