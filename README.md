@@ -31,6 +31,7 @@ I'll upload all leetcode questions i did recently
 | [0830-largest-triangle-area](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0898-transpose-matrix) |
+| [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1603-running-sum-of-1d-array) |
@@ -83,6 +84,7 @@ I'll upload all leetcode questions i did recently
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -146,6 +148,7 @@ I'll upload all leetcode questions i did recently
 | [0412-fizz-buzz](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0415-add-strings) |
 | [0830-largest-triangle-area](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1031-add-to-array-form-of-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1806-count-of-matches-in-tournament](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1806-count-of-matches-in-tournament) |
@@ -264,6 +267,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2032-largest-odd-number-in-string) |
 | [2756-buy-two-chocolates](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2756-buy-two-chocolates) |
 ## Heap (Priority Queue)
