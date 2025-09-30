@@ -41,6 +41,7 @@ I'll upload all leetcode questions i did recently
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
 | [2756-buy-two-chocolates](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2756-buy-two-chocolates) |
 | [3194-find-words-containing-character](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3194-find-words-containing-character) |
@@ -160,6 +161,7 @@ I'll upload all leetcode questions i did recently
 | [1806-count-of-matches-in-tournament](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3462-vowels-game-in-a-string) |
@@ -218,6 +220,7 @@ I'll upload all leetcode questions i did recently
 | [1806-count-of-matches-in-tournament](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2886-faulty-keyboard](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2886-faulty-keyboard) |
 ## Number Theory
 |  |
@@ -334,4 +337,8 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0830-largest-triangle-area) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
