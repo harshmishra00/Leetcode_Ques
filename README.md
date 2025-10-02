@@ -165,6 +165,7 @@ I'll upload all leetcode questions i did recently
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -224,6 +225,7 @@ I'll upload all leetcode questions i did recently
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2886-faulty-keyboard](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2886-faulty-keyboard) |
+| [3336-water-bottles-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3336-water-bottles-ii) |
 ## Number Theory
 |  |
 | ------- |
