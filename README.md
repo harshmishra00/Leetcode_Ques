@@ -6,6 +6,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0018-4sum) |
@@ -111,6 +112,7 @@ I'll upload all leetcode questions i did recently
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -283,6 +285,7 @@ I'll upload all leetcode questions i did recently
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2032-largest-odd-number-in-string) |
