@@ -53,6 +53,7 @@ I'll upload all leetcode questions i did recently
 | [3194-find-words-containing-character](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
 ## Hash Table
@@ -147,6 +148,7 @@ I'll upload all leetcode questions i did recently
 | [0724-find-pivot-index](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1603-running-sum-of-1d-array) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
 | ------- |
@@ -243,6 +245,7 @@ I'll upload all leetcode questions i did recently
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2886-faulty-keyboard](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2886-faulty-keyboard) |
 | [3336-water-bottles-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Number Theory
 |  |
 | ------- |
