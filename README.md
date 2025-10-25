@@ -454,4 +454,8 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2174-next-greater-numerically-balanced-number) |
+## Database
+|  |
+| ------- |
+| [1670-patients-with-a-condition](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1670-patients-with-a-condition) |
 <!---LeetCode Topics End-->
