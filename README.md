@@ -20,6 +20,7 @@ I'll upload all leetcode questions i did recently
 | [0075-sort-colors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0240-search-a-2d-matrix-ii) |
@@ -159,6 +160,7 @@ I'll upload all leetcode questions i did recently
 | [0151-reverse-words-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0287-find-the-duplicate-number) |
@@ -234,6 +236,7 @@ I'll upload all leetcode questions i did recently
 | [0035-search-insert-position](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0287-find-the-duplicate-number) |
