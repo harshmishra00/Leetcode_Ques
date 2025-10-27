@@ -51,6 +51,7 @@ I'll upload all leetcode questions i did recently
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2169-simple-bank-system) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -215,6 +216,7 @@ I'll upload all leetcode questions i did recently
 | [1817-calculate-money-in-leetcode-bank](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -269,6 +271,7 @@ I'll upload all leetcode questions i did recently
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
 | [0898-transpose-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0898-transpose-matrix) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3227-find-missing-and-repeated-values) |
 | [3797-design-spreadsheet](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
@@ -336,6 +339,7 @@ I'll upload all leetcode questions i did recently
 | [1894-merge-strings-alternately](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2032-largest-odd-number-in-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
 | [2886-faulty-keyboard](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2886-faulty-keyboard) |
