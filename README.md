@@ -46,6 +46,7 @@ I'll upload all leetcode questions i did recently
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1603-running-sum-of-1d-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2023-design-movie-rental-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2023-design-movie-rental-system) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
@@ -147,6 +148,7 @@ I'll upload all leetcode questions i did recently
 | [0120-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -360,6 +362,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Sliding Window
@@ -375,6 +378,7 @@ I'll upload all leetcode questions i did recently
 | [0611-valid-triangle-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2032-largest-odd-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2032-largest-odd-number-in-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2756-buy-two-chocolates](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2756-buy-two-chocolates) |
@@ -480,4 +484,8 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [1670-patients-with-a-condition](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1670-patients-with-a-condition) |
 | [1827-invalid-tweets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1827-invalid-tweets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
