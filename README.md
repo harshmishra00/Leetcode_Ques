@@ -80,6 +80,7 @@ I'll upload all leetcode questions i did recently
 | [3797-design-spreadsheet](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ I'll upload all leetcode questions i did recently
 | [3678-design-task-manager](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -413,6 +415,7 @@ I'll upload all leetcode questions i did recently
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3863-power-grid-maintenance) |
 ## Brainteaser
 |  |
 | ------- |
@@ -445,6 +448,7 @@ I'll upload all leetcode questions i did recently
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
 | ------- |
@@ -478,15 +482,18 @@ I'll upload all leetcode questions i did recently
 | [0407-trapping-rain-water-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
 |  |
 | ------- |
@@ -509,4 +516,8 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
