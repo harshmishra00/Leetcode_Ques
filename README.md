@@ -237,6 +237,7 @@ I'll upload all leetcode questions i did recently
 | [2032-largest-odd-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -325,6 +326,7 @@ I'll upload all leetcode questions i did recently
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2169-simple-bank-system) |
+| [2288-count-operations-to-obtain-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2886-faulty-keyboard](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2886-faulty-keyboard) |
