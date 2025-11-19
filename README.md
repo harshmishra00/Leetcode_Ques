@@ -100,6 +100,7 @@ I'll upload all leetcode questions i did recently
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0567-permutation-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -160,6 +161,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -375,6 +377,7 @@ I'll upload all leetcode questions i did recently
 | [0344-reverse-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0415-add-strings) |
@@ -487,6 +490,7 @@ I'll upload all leetcode questions i did recently
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
 ## Linked List
