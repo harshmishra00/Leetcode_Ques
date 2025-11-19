@@ -23,6 +23,7 @@ I'll upload all leetcode questions i did recently
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
@@ -198,6 +199,7 @@ I'll upload all leetcode questions i did recently
 | [0160-intersection-of-two-linked-lists](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0287-find-the-duplicate-number) |
@@ -237,6 +239,7 @@ I'll upload all leetcode questions i did recently
 | [0069-sqrtx](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0367-valid-perfect-square) |
