@@ -554,6 +554,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -592,4 +593,8 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
