@@ -59,6 +59,7 @@ I'll upload all leetcode questions i did recently
 | [2023-design-movie-rental-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2023-design-movie-rental-system) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2169-simple-bank-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2169-simple-bank-system) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -162,6 +163,7 @@ I'll upload all leetcode questions i did recently
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -319,6 +321,7 @@ I'll upload all leetcode questions i did recently
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1612-avoid-flood-in-the-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1612-avoid-flood-in-the-city) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -466,6 +469,7 @@ I'll upload all leetcode questions i did recently
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2032-largest-odd-number-in-string) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2756-buy-two-chocolates](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2756-buy-two-chocolates) |
