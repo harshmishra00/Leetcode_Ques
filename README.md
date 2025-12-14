@@ -214,6 +214,7 @@ I'll upload all leetcode questions i did recently
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -299,6 +300,7 @@ I'll upload all leetcode questions i did recently
 | [1817-calculate-money-in-leetcode-bank](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2032-largest-odd-number-in-string) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2288-count-operations-to-obtain-zero) |
@@ -455,6 +457,7 @@ I'll upload all leetcode questions i did recently
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2032-largest-odd-number-in-string) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2346-largest-3-same-digit-number-in-string) |
