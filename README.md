@@ -105,6 +105,7 @@ I'll upload all leetcode questions i did recently
 | [3623-count-number-of-trapezoids-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
@@ -275,6 +276,7 @@ I'll upload all leetcode questions i did recently
 | [3616-make-array-elements-equal-to-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
@@ -501,6 +503,7 @@ I'll upload all leetcode questions i did recently
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Greedy
 |  |
 | ------- |
