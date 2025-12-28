@@ -50,6 +50,7 @@ I'll upload all leetcode questions i did recently
 | [1031-add-to-array-form-of-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1031-add-to-array-form-of-integer) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -374,6 +375,7 @@ I'll upload all leetcode questions i did recently
 | [0792-binary-search](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1612-avoid-flood-in-the-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1612-avoid-flood-in-the-city) |
 | [2054-two-best-non-overlapping-events](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2054-two-best-non-overlapping-events) |
@@ -396,6 +398,7 @@ I'll upload all leetcode questions i did recently
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
 | [0898-transpose-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0898-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
