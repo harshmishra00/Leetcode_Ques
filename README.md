@@ -142,6 +142,7 @@ I'll upload all leetcode questions i did recently
 | [0567-permutation-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0567-permutation-in-string) |
 | [0756-pyramid-transition-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -659,6 +660,7 @@ I'll upload all leetcode questions i did recently
 | [0407-trapping-rain-water-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2092-find-all-people-with-secret) |
@@ -668,6 +670,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -720,6 +723,7 @@ I'll upload all leetcode questions i did recently
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -731,6 +735,7 @@ I'll upload all leetcode questions i did recently
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
