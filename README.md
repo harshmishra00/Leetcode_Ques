@@ -19,6 +19,7 @@ I'll upload all leetcode questions i did recently
 | [0066-plus-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -234,6 +235,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0474-ones-and-zeroes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0474-ones-and-zeroes) |
@@ -409,6 +411,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
@@ -533,6 +536,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -711,6 +715,7 @@ I'll upload all leetcode questions i did recently
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph
