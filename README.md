@@ -53,6 +53,7 @@ I'll upload all leetcode questions i did recently
 | [1031-add-to-array-form-of-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1031-add-to-array-form-of-integer) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1390-four-divisors) |
@@ -333,6 +334,7 @@ I'll upload all leetcode questions i did recently
 | [1015-smallest-integer-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1031-add-to-array-form-of-integer) |
+| [1266-minimum-time-visiting-all-points](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -651,6 +653,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1266-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Combinatorics
