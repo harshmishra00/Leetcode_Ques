@@ -91,6 +91,7 @@ I'll upload all leetcode questions i did recently
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2756-buy-two-chocolates](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2756-buy-two-chocolates) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -163,6 +164,7 @@ I'll upload all leetcode questions i did recently
 | [2402-meeting-rooms-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -715,6 +717,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Database
 |  |
