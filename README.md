@@ -66,6 +66,7 @@ I'll upload all leetcode questions i did recently
 | [1612-avoid-flood-in-the-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1895-largest-magic-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1975-maximum-matrix-sum) |
 | [2023-design-movie-rental-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2023-design-movie-rental-system) |
@@ -305,6 +306,7 @@ I'll upload all leetcode questions i did recently
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1603-running-sum-of-1d-array) |
+| [1895-largest-magic-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -431,6 +433,7 @@ I'll upload all leetcode questions i did recently
 | [0840-magic-squares-in-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0840-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2244-number-of-laser-beams-in-a-bank) |
