@@ -111,6 +111,7 @@ I'll upload all leetcode questions i did recently
 | [3453-separate-squares-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -175,6 +176,7 @@ I'll upload all leetcode questions i did recently
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3583-count-special-triplets) |
@@ -489,6 +491,7 @@ I'll upload all leetcode questions i did recently
 | [2886-faulty-keyboard](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2886-faulty-keyboard) |
 | [3336-water-bottles-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -612,6 +615,7 @@ I'll upload all leetcode questions i did recently
 | [2054-two-best-non-overlapping-events](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3678-design-task-manager) |
@@ -647,6 +651,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3863-power-grid-maintenance) |
@@ -670,6 +675,7 @@ I'll upload all leetcode questions i did recently
 | [0234-palindrome-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0908-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Geometry
 |  |
 | ------- |
@@ -779,4 +785,8 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3454-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
