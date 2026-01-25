@@ -35,6 +35,7 @@ I'll upload all leetcode questions i did recently
 | [0474-ones-and-zeroes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0474-ones-and-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0724-find-pivot-index) |
 | [0759-set-intersection-size-at-least-two](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0759-set-intersection-size-at-least-two) |
@@ -581,6 +582,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
