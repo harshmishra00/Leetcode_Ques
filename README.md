@@ -55,6 +55,7 @@ I'll upload all leetcode questions i did recently
 | [1018-binary-prefix-divisible-by-5](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1031-add-to-array-form-of-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1031-add-to-array-form-of-integer) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1200-minimum-absolute-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -218,6 +219,7 @@ I'll upload all leetcode questions i did recently
 | [0611-valid-triangle-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1468-check-if-n-and-its-double-exist) |
