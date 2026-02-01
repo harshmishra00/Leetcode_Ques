@@ -32,6 +32,7 @@ I'll upload all leetcode questions i did recently
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0303-range-sum-query-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0474-ones-and-zeroes) |
@@ -330,6 +331,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -680,6 +682,7 @@ I'll upload all leetcode questions i did recently
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0303-range-sum-query-immutable) |
 | [2023-design-movie-rental-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
