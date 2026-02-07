@@ -13,31 +13,28 @@ public:
     bool isPalindrome(ListNode* head) {
         if (!head || !head->next) return true;
 
-        ListNode *slow = head, *fast = head;
-        while (fast->next && fast->next->next) {
-            slow = slow->next;
-            fast = fast->next->next;
+        stack<int> st;
+        ListNode* fast=head;
+        ListNode* slow=head;
+
+        while(fast!=NULL && fast->next!=NULL){
+            st.push(slow->val);
+            slow=slow->next;
+            fast=fast->next->next;
         }
 
-        ListNode* prev=NULL;
-        ListNode* curr=slow->next;
-
-        while(curr!=NULL){
-            ListNode* next=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=next;
+        if(fast!=NULL){
+            slow=slow->next;
         }
 
-        ListNode* first=head;
-        ListNode* second=prev;
-        while(second){
-            if(first->val!=second->val){
+        while(slow!=NULL){
+            if(slow->val!=st.top()){
                 return false;
             }
-            first=first->next;
-            second=second->next;
+            slow=slow->next;
+            st.pop();
         }
         return true;
+        
     }
 };
