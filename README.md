@@ -220,6 +220,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
@@ -228,6 +229,7 @@ I'll upload all leetcode questions i did recently
 | [0015-3sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0389-find-the-difference) |
@@ -321,6 +323,7 @@ I'll upload all leetcode questions i did recently
 | [0125-valid-palindrome](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0165-compare-version-numbers) |
@@ -738,6 +741,7 @@ I'll upload all leetcode questions i did recently
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0206-reverse-linked-list) |
@@ -876,4 +880,8 @@ I'll upload all leetcode questions i did recently
 | [2976-minimum-cost-to-convert-string-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
