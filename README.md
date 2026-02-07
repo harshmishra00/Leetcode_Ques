@@ -435,6 +435,7 @@ I'll upload all leetcode questions i did recently
 | [0203-remove-linked-list-elements](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -619,6 +620,7 @@ I'll upload all leetcode questions i did recently
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2211-count-collisions-on-a-road](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2487-remove-nodes-from-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2487-remove-nodes-from-linked-list) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
@@ -742,6 +744,7 @@ I'll upload all leetcode questions i did recently
 | [0234-palindrome-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2487-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -819,6 +822,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0085-maximal-rectangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2487-remove-nodes-from-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2487-remove-nodes-from-linked-list) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph
 |  |
