@@ -155,6 +155,7 @@ I'll upload all leetcode questions i did recently
 | [3651-minimum-cost-path-with-teleportations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
@@ -213,6 +214,7 @@ I'll upload all leetcode questions i did recently
 | [3625-count-number-of-trapezoids-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3678-design-task-manager) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3721-longest-balanced-subarray-ii) |
 | [3797-design-spreadsheet](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -227,6 +229,7 @@ I'll upload all leetcode questions i did recently
 | [0240-search-a-2d-matrix-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -376,6 +379,7 @@ I'll upload all leetcode questions i did recently
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
@@ -877,6 +881,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [3454-separate-squares-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
 |  |
 | ------- |
