@@ -86,6 +86,7 @@ I'll upload all leetcode questions i did recently
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2054-two-best-non-overlapping-events](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2073-time-needed-to-buy-tickets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -546,6 +547,7 @@ I'll upload all leetcode questions i did recently
 | [1806-count-of-matches-in-tournament](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-simple-bank-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2211-count-collisions-on-a-road) |
@@ -751,6 +753,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2073-time-needed-to-buy-tickets) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3827-implement-router) |
