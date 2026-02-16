@@ -640,6 +640,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -809,6 +810,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -871,6 +873,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -885,6 +888,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1339-maximum-product-of-splitted-binary-tree) |
