@@ -799,6 +799,7 @@ I'll upload all leetcode questions i did recently
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
@@ -811,6 +812,7 @@ I'll upload all leetcode questions i did recently
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0226-invert-binary-tree) |
@@ -876,6 +878,7 @@ I'll upload all leetcode questions i did recently
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0226-invert-binary-tree) |
@@ -892,6 +895,7 @@ I'll upload all leetcode questions i did recently
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0226-invert-binary-tree) |
