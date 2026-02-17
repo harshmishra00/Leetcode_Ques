@@ -799,6 +799,7 @@ I'll upload all leetcode questions i did recently
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
@@ -812,6 +813,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -876,6 +878,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0226-invert-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -891,6 +894,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0226-invert-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1339-maximum-product-of-splitted-binary-tree) |
