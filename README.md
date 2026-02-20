@@ -231,6 +231,7 @@ I'll upload all leetcode questions i did recently
 | [0148-sort-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0761-special-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3721-longest-balanced-subarray-ii) |
@@ -246,6 +247,7 @@ I'll upload all leetcode questions i did recently
 | [0389-find-the-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0761-special-binary-string) |
 | [0905-sort-array-by-parity](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0905-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1200-minimum-absolute-difference) |
@@ -604,6 +606,7 @@ I'll upload all leetcode questions i did recently
 | [0696-count-binary-substrings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0953-reverse-only-letters) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0955-delete-columns-to-make-sorted-ii) |
