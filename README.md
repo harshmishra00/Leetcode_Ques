@@ -658,6 +658,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -831,6 +832,7 @@ I'll upload all leetcode questions i did recently
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0110-balanced-binary-tree) |
@@ -899,6 +901,7 @@ I'll upload all leetcode questions i did recently
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0110-balanced-binary-tree) |
@@ -919,6 +922,7 @@ I'll upload all leetcode questions i did recently
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0110-balanced-binary-tree) |
