@@ -462,6 +462,7 @@ I'll upload all leetcode questions i did recently
 | [0203-remove-linked-list-elements](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
@@ -559,6 +560,7 @@ I'll upload all leetcode questions i did recently
 | [0412-fizz-buzz](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0898-transpose-matrix) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1806-count-of-matches-in-tournament) |
@@ -625,6 +627,7 @@ I'll upload all leetcode questions i did recently
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
