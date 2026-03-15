@@ -430,6 +430,7 @@ I'll upload all leetcode questions i did recently
 | [1390-four-divisors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -784,6 +785,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0303-range-sum-query-immutable) |
+| [1622-fancy-sequence](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
@@ -971,6 +973,7 @@ I'll upload all leetcode questions i did recently
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3721-longest-balanced-subarray-ii) |
