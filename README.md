@@ -115,6 +115,7 @@ I'll upload all leetcode questions i did recently
 | [2756-buy-two-chocolates](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2756-buy-two-chocolates) |
 | [2906-construct-product-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -472,6 +473,7 @@ I'll upload all leetcode questions i did recently
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3227-find-missing-and-repeated-values) |
@@ -567,6 +569,7 @@ I'll upload all leetcode questions i did recently
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3227-find-missing-and-repeated-values) |
@@ -626,6 +629,7 @@ I'll upload all leetcode questions i did recently
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2402-meeting-rooms-iii) |
 | [2886-faulty-keyboard](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2886-faulty-keyboard) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3433-count-mentions-per-user) |
