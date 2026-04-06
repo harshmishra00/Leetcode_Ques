@@ -48,6 +48,7 @@ I'll upload all leetcode questions i did recently
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0874-walking-robot-simulation) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0898-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0904-fruit-into-baskets) |
@@ -201,6 +202,7 @@ I'll upload all leetcode questions i did recently
 | [0756-pyramid-transition-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -627,6 +629,7 @@ I'll upload all leetcode questions i did recently
 | [0412-fizz-buzz](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0898-transpose-matrix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1642-water-bottles) |
