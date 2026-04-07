@@ -637,6 +637,7 @@ I'll upload all leetcode questions i did recently
 | [1806-count-of-matches-in-tournament](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2069-walking-robot-simulation-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -858,6 +859,7 @@ I'll upload all leetcode questions i did recently
 | [0303-range-sum-query-immutable](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0303-range-sum-query-immutable) |
 | [1622-fancy-sequence](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3678-design-task-manager) |
