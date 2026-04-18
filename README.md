@@ -522,6 +522,7 @@ I'll upload all leetcode questions i did recently
 | [3676-smallest-number-with-all-set-bits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
