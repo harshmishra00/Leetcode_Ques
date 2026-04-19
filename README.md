@@ -83,6 +83,7 @@ I'll upload all leetcode questions i did recently
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -414,6 +415,7 @@ I'll upload all leetcode questions i did recently
 | [0908-middle-of-the-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0953-reverse-only-letters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -559,6 +561,7 @@ I'll upload all leetcode questions i did recently
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1612-avoid-flood-in-the-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1612-avoid-flood-in-the-city) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2141-maximum-running-time-of-n-computers) |
