@@ -97,6 +97,7 @@ I'll upload all leetcode questions i did recently
 | [2054-two-best-non-overlapping-events](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2073-time-needed-to-buy-tickets) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -827,6 +828,7 @@ I'll upload all leetcode questions i did recently
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2032-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2573-find-the-string-with-lcp](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2618-maximize-the-minimum-powered-city) |
