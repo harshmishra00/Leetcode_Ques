@@ -34,6 +34,7 @@ I'll upload all leetcode questions i did recently
 | [0283-move-zeroes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0303-range-sum-query-immutable) |
+| [0396-rotate-function](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0474-ones-and-zeroes) |
@@ -362,6 +363,7 @@ I'll upload all leetcode questions i did recently
 | [0085-maximal-rectangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0799-champagne-tower) |
@@ -493,6 +495,7 @@ I'll upload all leetcode questions i did recently
 | [0258-add-digits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0415-add-strings) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
