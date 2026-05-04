@@ -15,6 +15,7 @@ I'll upload all leetcode questions i did recently
 | [0033-search-in-rotated-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0066-plus-one) |
@@ -486,6 +487,7 @@ I'll upload all leetcode questions i did recently
 | [0007-reverse-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0067-add-binary) |
@@ -608,6 +610,7 @@ I'll upload all leetcode questions i did recently
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0085-maximal-rectangle) |
