@@ -94,6 +94,7 @@ I'll upload all leetcode questions i did recently
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1980-find-unique-binary-string) |
@@ -639,6 +640,7 @@ I'll upload all leetcode questions i did recently
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -701,6 +703,7 @@ I'll upload all leetcode questions i did recently
 | [1642-water-bottles](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1806-count-of-matches-in-tournament) |
+| [1914-cyclically-rotating-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1914-cyclically-rotating-a-grid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2069-walking-robot-simulation-ii) |
