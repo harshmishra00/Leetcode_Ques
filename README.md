@@ -129,6 +129,7 @@ I'll upload all leetcode questions i did recently
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2615-sum-of-distances) |
@@ -257,6 +258,7 @@ I'll upload all leetcode questions i did recently
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
+| [2540-minimum-common-value](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2784-check-if-array-is-good](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2784-check-if-array-is-good) |
@@ -463,6 +465,7 @@ I'll upload all leetcode questions i did recently
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2540-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
@@ -620,6 +623,7 @@ I'll upload all leetcode questions i did recently
 | [2141-maximum-running-time-of-n-computers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3437-maximum-total-damage-with-spell-casting) |
