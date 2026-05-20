@@ -135,6 +135,7 @@ I'll upload all leetcode questions i did recently
 | [2615-sum-of-distances](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2625-increment-submatrices-by-one) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2751-robot-collisions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -260,6 +261,7 @@ I'll upload all leetcode questions i did recently
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
 | [2540-minimum-common-value](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2784-check-if-array-is-good](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -704,6 +706,7 @@ I'll upload all leetcode questions i did recently
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
