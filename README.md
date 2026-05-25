@@ -409,6 +409,7 @@ I'll upload all leetcode questions i did recently
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1871-jump-game-vii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -488,6 +489,7 @@ I'll upload all leetcode questions i did recently
 | [1590-make-sum-divisible-by-p](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1603-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -815,6 +817,7 @@ I'll upload all leetcode questions i did recently
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1871-jump-game-vii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1894-merge-strings-alternately) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -877,6 +880,7 @@ I'll upload all leetcode questions i did recently
 | [0643-maximum-average-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1871-jump-game-vii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
