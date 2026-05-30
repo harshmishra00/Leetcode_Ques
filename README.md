@@ -158,6 +158,7 @@ I'll upload all leetcode questions i did recently
 | [3074-apple-redistribution-into-boxes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3161-block-placement-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3194-find-words-containing-character) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -640,6 +641,7 @@ I'll upload all leetcode questions i did recently
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3161-block-placement-queries](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3453-separate-squares-i) |
@@ -1186,6 +1188,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1239,4 +1242,8 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
