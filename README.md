@@ -447,6 +447,7 @@ I'll upload all leetcode questions i did recently
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
 |  |
@@ -604,6 +605,7 @@ I'll upload all leetcode questions i did recently
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3783-mirror-distance-of-an-integer) |
