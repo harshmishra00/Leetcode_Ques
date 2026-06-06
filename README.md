@@ -136,6 +136,7 @@ I'll upload all leetcode questions i did recently
 | [2540-minimum-common-value](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2573-find-the-string-with-lcp) |
+| [2574-left-and-right-sum-differences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2625-increment-submatrices-by-one) |
@@ -511,6 +512,7 @@ I'll upload all leetcode questions i did recently
 | [1895-largest-magic-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2574-left-and-right-sum-differences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2625-increment-submatrices-by-one) |
