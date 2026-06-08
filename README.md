@@ -119,6 +119,7 @@ I'll upload all leetcode questions i did recently
 | [2141-maximum-running-time-of-n-computers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -491,6 +492,7 @@ I'll upload all leetcode questions i did recently
 | [1894-merge-strings-alternately](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2540-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -770,6 +772,7 @@ I'll upload all leetcode questions i did recently
 | [2073-time-needed-to-buy-tickets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2274-keep-multiplying-found-values-by-two) |
