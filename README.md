@@ -606,6 +606,7 @@ I'll upload all leetcode questions i did recently
 | [3462-vowels-game-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3623-count-number-of-trapezoids-i) |
@@ -1124,6 +1125,7 @@ I'll upload all leetcode questions i did recently
 | [1970-last-day-where-you-can-still-cross](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3863-power-grid-maintenance) |
 ## Union Find
@@ -1197,6 +1199,7 @@ I'll upload all leetcode questions i did recently
 | [1382-balance-a-binary-search-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Monotonic Queue
 |  |
