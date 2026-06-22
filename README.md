@@ -262,6 +262,7 @@ I'll upload all leetcode questions i did recently
 | [0904-fruit-into-baskets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1345-jump-game-iv](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -402,6 +403,7 @@ I'll upload all leetcode questions i did recently
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1189-maximum-number-of-balloons) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -850,6 +852,7 @@ I'll upload all leetcode questions i did recently
 | [0953-reverse-only-letters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0953-reverse-only-letters) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1189-maximum-number-of-balloons](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1189-maximum-number-of-balloons) |
 | [1205-defanging-an-ip-address](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
