@@ -231,6 +231,7 @@ I'll upload all leetcode questions i did recently
 | [3719-longest-balanced-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -316,6 +317,7 @@ I'll upload all leetcode questions i did recently
 | [3719-longest-balanced-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -338,6 +340,7 @@ I'll upload all leetcode questions i did recently
 | [3719-longest-balanced-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -559,6 +562,7 @@ I'll upload all leetcode questions i did recently
 | [3719-longest-balanced-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
@@ -1263,6 +1267,7 @@ I'll upload all leetcode questions i did recently
 | [3719-longest-balanced-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -1290,6 +1295,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0148-sort-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
