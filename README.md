@@ -271,6 +271,7 @@ I'll upload all leetcode questions i did recently
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1345-jump-game-iv](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1590-make-sum-divisible-by-p](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1590-make-sum-divisible-by-p) |
@@ -875,6 +876,7 @@ I'll upload all leetcode questions i did recently
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -955,6 +957,7 @@ I'll upload all leetcode questions i did recently
 | [0643-maximum-average-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
