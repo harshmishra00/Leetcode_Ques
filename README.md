@@ -214,6 +214,7 @@ I'll upload all leetcode questions i did recently
 | [3616-make-array-elements-equal-to-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3620-network-recovery-pathways](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -470,6 +471,7 @@ I'll upload all leetcode questions i did recently
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3620-network-recovery-pathways](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3660-jump-game-ix) |
@@ -707,6 +709,7 @@ I'll upload all leetcode questions i did recently
 | [3488-closest-equal-element-queries](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-network-recovery-pathways](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1039,6 +1042,7 @@ I'll upload all leetcode questions i did recently
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3678-design-task-manager) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1304,6 +1308,7 @@ I'll upload all leetcode questions i did recently
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -1311,6 +1316,7 @@ I'll upload all leetcode questions i did recently
 | [2976-minimum-cost-to-convert-string-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Merge Sort
 |  |
@@ -1351,4 +1357,8 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1833-maximum-ice-cream-bars) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
