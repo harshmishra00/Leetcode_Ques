@@ -61,6 +61,7 @@ I'll upload all leetcode questions i did recently
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1031-add-to-array-form-of-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1031-add-to-array-form-of-integer) |
@@ -363,6 +364,7 @@ I'll upload all leetcode questions i did recently
 | [0759-set-intersection-size-at-least-two](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0761-special-binary-string) |
 | [0905-sort-array-by-parity](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -514,6 +516,7 @@ I'll upload all leetcode questions i did recently
 | [0905-sort-array-by-parity](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0953-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1861-rotating-the-box) |
