@@ -658,6 +658,7 @@ I'll upload all leetcode questions i did recently
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0203-remove-linked-list-elements) |
@@ -1105,6 +1106,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0083-remove-duplicates-from-sorted-list) |
