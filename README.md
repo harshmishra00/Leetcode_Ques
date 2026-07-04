@@ -1162,6 +1162,7 @@ I'll upload all leetcode questions i did recently
 | [1559-detect-cycles-in-2d-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2092-find-all-people-with-secret) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1189,6 +1190,7 @@ I'll upload all leetcode questions i did recently
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2092-find-all-people-with-secret) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1311,6 +1313,7 @@ I'll upload all leetcode questions i did recently
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1349,6 +1352,7 @@ I'll upload all leetcode questions i did recently
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
