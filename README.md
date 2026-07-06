@@ -434,6 +434,7 @@ I'll upload all leetcode questions i did recently
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0120-triangle) |
@@ -489,6 +490,7 @@ I'll upload all leetcode questions i did recently
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0018-4sum) |
@@ -857,6 +859,7 @@ I'll upload all leetcode questions i did recently
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
