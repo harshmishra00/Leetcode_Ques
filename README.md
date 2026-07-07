@@ -666,6 +666,7 @@ I'll upload all leetcode questions i did recently
 | [3700-number-of-zigzag-arrays-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3783-mirror-distance-of-an-integer) |
