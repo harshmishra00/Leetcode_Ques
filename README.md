@@ -1252,6 +1252,7 @@ I'll upload all leetcode questions i did recently
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
