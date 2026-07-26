@@ -45,6 +45,7 @@ I'll upload all leetcode questions i did recently
 | [0485-max-consecutive-ones](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0724-find-pivot-index) |
@@ -380,6 +381,7 @@ I'll upload all leetcode questions i did recently
 | [0349-intersection-of-two-arrays](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0761-special-binary-string) |
 | [0905-sort-array-by-parity](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0905-sort-array-by-parity) |
@@ -634,6 +636,7 @@ I'll upload all leetcode questions i did recently
 | [0396-rotate-function](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0830-largest-triangle-area) |
