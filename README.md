@@ -274,6 +274,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0160-intersection-of-two-linked-lists) |
@@ -939,6 +940,7 @@ I'll upload all leetcode questions i did recently
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0020-valid-parentheses) |
@@ -1060,6 +1062,7 @@ I'll upload all leetcode questions i did recently
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0643-maximum-average-subarray-i) |
