@@ -132,6 +132,7 @@ I'll upload all leetcode questions i did recently
 | [2058-concatenation-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2090-k-radius-subarray-averages](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2090-k-radius-subarray-averages) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1075,6 +1076,7 @@ I'll upload all leetcode questions i did recently
 | [1871-jump-game-vii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2090-k-radius-subarray-averages](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
