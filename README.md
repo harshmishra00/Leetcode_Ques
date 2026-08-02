@@ -58,6 +58,7 @@ I'll upload all leetcode questions i did recently
 | [0830-largest-triangle-area](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0898-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0904-fruit-into-baskets) |
@@ -488,6 +489,7 @@ I'll upload all leetcode questions i did recently
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -662,6 +664,7 @@ I'll upload all leetcode questions i did recently
 | [0788-rotated-digits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1031-add-to-array-form-of-integer) |
@@ -1177,6 +1180,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3462-vowels-game-in-a-string) |
 ## Trie
 |  |
