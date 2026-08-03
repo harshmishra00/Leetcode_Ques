@@ -88,6 +88,7 @@ I'll upload all leetcode questions i did recently
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -496,6 +497,7 @@ I'll upload all leetcode questions i did recently
 | [1301-number-of-paths-with-max-score](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -671,6 +673,7 @@ I'll upload all leetcode questions i did recently
 | [1266-minimum-time-visiting-all-points](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1622-fancy-sequence) |
@@ -1181,6 +1184,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0486-predict-the-winner](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3462-vowels-game-in-a-string) |
 ## Trie
 |  |
