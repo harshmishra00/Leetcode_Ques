@@ -606,6 +606,7 @@ I'll upload all leetcode questions i did recently
 | [0410-split-array-largest-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0930-binary-subarrays-with-sum) |
+| [1208-get-equal-substrings-within-budget](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1208-get-equal-substrings-within-budget) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -779,6 +780,7 @@ I'll upload all leetcode questions i did recently
 | [0792-binary-search](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1208-get-equal-substrings-within-budget](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1208-get-equal-substrings-within-budget) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -995,6 +997,7 @@ I'll upload all leetcode questions i did recently
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1189-maximum-number-of-balloons) |
 | [1205-defanging-an-ip-address](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1205-defanging-an-ip-address) |
+| [1208-get-equal-substrings-within-budget](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1208-get-equal-substrings-within-budget) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1088,6 +1091,7 @@ I'll upload all leetcode questions i did recently
 | [0643-maximum-average-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0930-binary-subarrays-with-sum) |
+| [1208-get-equal-substrings-within-budget](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1208-get-equal-substrings-within-budget) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
