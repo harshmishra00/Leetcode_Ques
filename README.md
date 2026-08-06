@@ -69,6 +69,7 @@ I'll upload all leetcode questions i did recently
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1031-add-to-array-form-of-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1031-add-to-array-form-of-integer) |
@@ -781,6 +782,7 @@ I'll upload all leetcode questions i did recently
 | [0792-binary-search](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1208-get-equal-substrings-within-budget) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
