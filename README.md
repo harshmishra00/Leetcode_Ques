@@ -75,6 +75,7 @@ I'll upload all leetcode questions i did recently
 | [1018-binary-prefix-divisible-by-5](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1031-add-to-array-form-of-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1031-add-to-array-form-of-integer) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -503,6 +504,7 @@ I'll upload all leetcode questions i did recently
 | [0877-stone-game](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -613,6 +615,7 @@ I'll upload all leetcode questions i did recently
 | [0410-split-array-largest-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0930-binary-subarrays-with-sum) |
+| [1140-stone-game-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1140-stone-game-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1208-get-equal-substrings-within-budget) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -684,6 +687,7 @@ I'll upload all leetcode questions i did recently
 | [1015-smallest-integer-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1031-add-to-array-form-of-integer) |
+| [1140-stone-game-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1390-four-divisors) |
@@ -1212,6 +1216,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0486-predict-the-winner](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3462-vowels-game-in-a-string) |
 ## Trie
@@ -1544,4 +1549,12 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3620-network-recovery-pathways) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
