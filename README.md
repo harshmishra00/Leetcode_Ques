@@ -513,6 +513,7 @@ I'll upload all leetcode questions i did recently
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -693,6 +694,7 @@ I'll upload all leetcode questions i did recently
 | [1390-four-divisors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1510-stone-game-iv](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1218,6 +1220,7 @@ I'll upload all leetcode questions i did recently
 | [0877-stone-game](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1510-stone-game-iv) |
 | [3462-vowels-game-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3462-vowels-game-in-a-string) |
 ## Trie
 |  |
@@ -1553,8 +1556,18 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
