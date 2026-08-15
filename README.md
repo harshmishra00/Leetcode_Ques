@@ -267,6 +267,7 @@ I'll upload all leetcode questions i did recently
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3731-find-missing-elements) |
@@ -918,6 +919,7 @@ I'll upload all leetcode questions i did recently
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
 |  |
