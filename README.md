@@ -722,6 +722,7 @@ I'll upload all leetcode questions i did recently
 | [1840-maximum-building-height](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2032-largest-odd-number-in-string) |
@@ -1060,6 +1061,7 @@ I'll upload all leetcode questions i did recently
 | [1871-jump-game-vii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1894-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1980-find-unique-binary-string) |
@@ -1183,6 +1185,7 @@ I'll upload all leetcode questions i did recently
 | [1833-maximum-ice-cream-bars](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2032-largest-odd-number-in-string) |
@@ -1251,6 +1254,7 @@ I'll upload all leetcode questions i did recently
 | [1406-stone-game-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3462-vowels-game-in-a-string) |
 ## Trie
