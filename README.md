@@ -297,6 +297,7 @@ I'll upload all leetcode questions i did recently
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -689,6 +690,7 @@ I'll upload all leetcode questions i did recently
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3903-smallest-stable-index-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
