@@ -519,6 +519,7 @@ I'll upload all leetcode questions i did recently
 | [0005-longest-palindromic-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0213-house-robber-ii) |
@@ -1038,6 +1039,7 @@ I'll upload all leetcode questions i did recently
 | [0049-group-anagrams](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0165-compare-version-numbers) |
