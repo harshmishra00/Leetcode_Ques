@@ -228,6 +228,7 @@ I'll upload all leetcode questions i did recently
 | [3453-separate-squares-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -365,6 +366,7 @@ I'll upload all leetcode questions i did recently
 | [3312-sorted-gcd-pair-queries](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -816,6 +818,7 @@ I'll upload all leetcode questions i did recently
 | [0486-predict-the-winner](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -1470,6 +1473,7 @@ I'll upload all leetcode questions i did recently
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3546-equal-sum-grid-partition-i) |
