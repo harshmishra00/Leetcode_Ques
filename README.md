@@ -552,6 +552,7 @@ I'll upload all leetcode questions i did recently
 | [1510-stone-game-iv](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -665,6 +666,7 @@ I'll upload all leetcode questions i did recently
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1603-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1871-jump-game-vii) |
@@ -743,6 +745,7 @@ I'll upload all leetcode questions i did recently
 | [1510-stone-game-iv](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1642-water-bottles) |
@@ -1390,6 +1393,7 @@ I'll upload all leetcode questions i did recently
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3312-sorted-gcd-pair-queries) |
