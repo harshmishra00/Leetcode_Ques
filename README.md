@@ -745,6 +745,7 @@ I'll upload all leetcode questions i did recently
 | [1266-minimum-time-visiting-all-points](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1510-stone-game-iv](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1510-stone-game-iv) |
@@ -1395,6 +1396,7 @@ I'll upload all leetcode questions i did recently
 | [0830-largest-triangle-area](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0830-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3623-count-number-of-trapezoids-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3623-count-number-of-trapezoids-i) |
