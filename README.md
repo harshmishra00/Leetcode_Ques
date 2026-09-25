@@ -331,6 +331,7 @@ I'll upload all leetcode questions i did recently
 | [0930-binary-subarrays-with-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1331-rank-transform-of-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1331-rank-transform-of-an-array) |
@@ -445,6 +446,7 @@ I'll upload all leetcode questions i did recently
 | [0905-sort-array-by-parity](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
+| [1096-brace-expansion-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1288-remove-covered-intervals) |
@@ -1101,6 +1103,7 @@ I'll upload all leetcode questions i did recently
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1189-maximum-number-of-balloons) |
 | [1205-defanging-an-ip-address](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1205-defanging-an-ip-address) |
 | [1208-get-equal-substrings-within-budget](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1208-get-equal-substrings-within-budget) |
@@ -1189,6 +1192,7 @@ I'll upload all leetcode questions i did recently
 | [0145-binary-tree-postorder-traversal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1096-brace-expansion-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1434,6 +1438,7 @@ I'll upload all leetcode questions i did recently
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1096-brace-expansion-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1345-jump-game-iv) |
@@ -1497,6 +1502,7 @@ I'll upload all leetcode questions i did recently
 | ------- |
 | [0401-binary-watch](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0756-pyramid-transition-matrix) |
+| [1096-brace-expansion-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2174-next-greater-numerically-balanced-number) |
