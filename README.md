@@ -1107,6 +1107,7 @@ I'll upload all leetcode questions i did recently
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1205-defanging-an-ip-address) |
 | [1208-get-equal-substrings-within-budget](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1208-get-equal-substrings-within-budget) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1196,6 +1197,7 @@ I'll upload all leetcode questions i did recently
 | [0234-palindrome-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1709,4 +1711,8 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
