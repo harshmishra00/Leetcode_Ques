@@ -1109,6 +1109,7 @@ I'll upload all leetcode questions i did recently
 | [0761-special-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0953-reverse-only-letters) |
@@ -1210,6 +1211,7 @@ I'll upload all leetcode questions i did recently
 | [0234-palindrome-linked-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1266,6 +1268,7 @@ I'll upload all leetcode questions i did recently
 | [0611-valid-triangle-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0759-set-intersection-size-at-least-two) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1018-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1737,6 +1740,7 @@ I'll upload all leetcode questions i did recently
 | [0032-longest-valid-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
