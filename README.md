@@ -1091,6 +1091,7 @@ I'll upload all leetcode questions i did recently
 | [0165-compare-version-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0171-excel-sheet-column-number) |
+| [0301-remove-invalid-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0383-ransom-note) |
@@ -1460,6 +1461,7 @@ I'll upload all leetcode questions i did recently
 | [0100-same-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0794-swim-in-rising-water) |
@@ -1527,6 +1529,7 @@ I'll upload all leetcode questions i did recently
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0756-pyramid-transition-matrix) |
 | [1096-brace-expansion-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1096-brace-expansion-ii) |
