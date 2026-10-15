@@ -327,6 +327,7 @@ I'll upload all leetcode questions i did recently
 | [0160-intersection-of-two-linked-lists](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0383-ransom-note) |
@@ -449,6 +450,7 @@ I'll upload all leetcode questions i did recently
 | [0075-sort-colors](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0389-find-the-difference) |
@@ -1109,6 +1111,7 @@ I'll upload all leetcode questions i did recently
 | [0165-compare-version-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0345-reverse-vowels-of-a-string) |
