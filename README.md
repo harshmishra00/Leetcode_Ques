@@ -1778,4 +1778,16 @@ I'll upload all leetcode questions i did recently
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
