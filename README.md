@@ -321,6 +321,7 @@ I'll upload all leetcode questions i did recently
 | [3886-sum-of-sortable-integers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
