@@ -819,6 +819,7 @@ I'll upload all leetcode questions i did recently
 | [2288-count-operations-to-obtain-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2409-count-days-spent-together) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -1199,6 +1200,7 @@ I'll upload all leetcode questions i did recently
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2409-count-days-spent-together](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2409-count-days-spent-together) |
 | [2429-design-a-food-rating-system](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
