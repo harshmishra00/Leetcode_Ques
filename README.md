@@ -1616,6 +1616,7 @@ I'll upload all leetcode questions i did recently
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0175-combine-two-tables) |
 | [1670-patients-with-a-condition](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1670-patients-with-a-condition) |
 | [1827-invalid-tweets](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1827-invalid-tweets) |
 ## Monotonic Stack
