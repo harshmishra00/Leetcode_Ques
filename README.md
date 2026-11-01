@@ -46,6 +46,7 @@ I'll upload all leetcode questions i did recently
 | [0407-trapping-rain-water-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0417-pacific-atlantic-water-flow) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0486-predict-the-winner) |
@@ -782,6 +783,7 @@ I'll upload all leetcode questions i did recently
 | [0396-rotate-function](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
