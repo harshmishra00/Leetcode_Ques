@@ -195,6 +195,7 @@ I'll upload all leetcode questions i did recently
 | [2625-increment-submatrices-by-one](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2625-increment-submatrices-by-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2747-count-zero-request-servers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2756-buy-two-chocolates](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2756-buy-two-chocolates) |
@@ -389,6 +390,7 @@ I'll upload all leetcode questions i did recently
 | [2615-sum-of-distances](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2747-count-zero-request-servers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -517,6 +519,7 @@ I'll upload all leetcode questions i did recently
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2751-robot-collisions) |
 | [2756-buy-two-chocolates](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2756-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2784-check-if-array-is-good) |
@@ -1328,6 +1331,7 @@ I'll upload all leetcode questions i did recently
 | [2090-k-radius-subarray-averages](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2747-count-zero-request-servers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
