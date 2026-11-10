@@ -133,6 +133,7 @@ I'll upload all leetcode questions i did recently
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1833-maximum-ice-cream-bars) |
@@ -379,6 +380,7 @@ I'll upload all leetcode questions i did recently
 | [1612-avoid-flood-in-the-city](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1612-avoid-flood-in-the-city) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1748-sum-of-unique-elements](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1980-find-unique-binary-string) |
@@ -564,6 +566,7 @@ I'll upload all leetcode questions i did recently
 | [0387-first-unique-character-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1267-count-servers-that-communicate) |
+| [1748-sum-of-unique-elements](https://github.com/harshmishra00/Leetcode_Ques/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2029-stone-game-ix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2833-furthest-point-from-origin) |
