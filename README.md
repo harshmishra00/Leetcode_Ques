@@ -642,6 +642,7 @@ I'll upload all leetcode questions i did recently
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -723,6 +724,7 @@ I'll upload all leetcode questions i did recently
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2540-minimum-common-value) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1266,6 +1268,7 @@ I'll upload all leetcode questions i did recently
 | [2886-faulty-keyboard](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2887-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
