@@ -224,6 +224,7 @@ I'll upload all leetcode questions i did recently
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -542,6 +543,7 @@ I'll upload all leetcode questions i did recently
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3074-apple-redistribution-into-boxes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -647,6 +649,7 @@ I'll upload all leetcode questions i did recently
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3225-maximum-score-from-grid-operations) |
