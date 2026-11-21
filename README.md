@@ -247,6 +247,7 @@ I'll upload all leetcode questions i did recently
 | [3312-sorted-gcd-pair-queries](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3379-transformed-array) |
@@ -421,6 +422,7 @@ I'll upload all leetcode questions i did recently
 | [3227-find-missing-and-repeated-values](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1292,6 +1294,7 @@ I'll upload all leetcode questions i did recently
 | [3194-find-words-containing-character](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -1649,6 +1652,7 @@ I'll upload all leetcode questions i did recently
 | [2685-count-the-number-of-complete-components](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2685-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3310-remove-methods-from-project](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1747,6 +1751,7 @@ I'll upload all leetcode questions i did recently
 | [2196-create-binary-tree-from-descriptions](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshmishra00/Leetcode_Ques/tree/master/3841-palindromic-path-queries-in-a-tree) |
