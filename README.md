@@ -1261,6 +1261,7 @@ I'll upload all leetcode questions i did recently
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2032-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2211-count-collisions-on-a-road) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harshmishra00/Leetcode_Ques/tree/master/2213-longest-substring-of-one-repeating-character) |
